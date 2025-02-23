@@ -1,24 +1,2 @@
-# Facebook Clone
-
-## Descriere
-Acest proiect este o clonă simplificată a paginii de autentificare Facebook, realizată folosind HTML și CSS.
-
-## Structura fișierelor
-- **facebook.html** – Pagina principală a site-ului
-- **facebook.css** – Fișierul CSS pentru stilizare
-- **README.md** – Acest fișier, care oferă informații despre proiect
-
-## Cum rulezi proiectul?
-1. Descarcă sau clonează repository-ul.
-2. Deschide `facebook.html` într-un browser web (Google Chrome, Firefox etc.).
-
-## Posibile probleme
-Dacă site-ul nu funcționează corect:
-- Verifică dacă fișierul `facebook.css` este bine conectat în `facebook.html`.
-- Dacă ai adăugat JavaScript, verifică consola browserului pentru erori.
-- Asigură-te că browserul tău acceptă codul scris.
-
-## Îmbunătățiri viitoare
-- Adăugarea unui sistem de autentificare real.
-- Integrarea unor animații pentru o experiență mai plăcută.
-- Optimizarea pentru dispozitive mobile.
+![hitler1](https://github.com/user-attachments/assets/4ac67d3e-15a1-4c2b-a87a-51370b1ea615)
+![hirler2](https://github.com/user-attachments/assets/289bb947-e030-4503-88cd-5a2c0352e50f)
